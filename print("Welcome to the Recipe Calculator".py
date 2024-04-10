@@ -1,0 +1,11 @@
+print("Olivia Do 04/10/2024")
+print("Welcome to the Recipe Calculator")
+print("Enter amount of lemon juice (in cups):", int(input()))
+print("Enter amount of water (in cups):", int(input()))
+print("Enter amount of sugar (in cups):", int(input()))
+print("How many servings does this make?")
+
+print("Basic Lemonade Recipe. Yields 6.00 servings.")
+print("2.00 cup(s) lemon juice")
+print("16.00 cup(s) water")
+print("2.50 cup(s) sugar")
